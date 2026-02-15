@@ -1,0 +1,32 @@
+# PyTorch and dependencies
+torch>=2.0.0
+numpy>=1.24.0
+
+# Data processing
+pandas>=2.0.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Progress bars
+tqdm>=4.65.0
+
+# Jupyter notebook
+jupyter>=1.0.0
+ipython>=8.12.0
+notebook>=6.5.0
+
+# Document processing (for reading uploaded docx)
+python-docx>=0.8.11
+
+# Optional: For better tokenization (if needed)
+# transformers>=4.30.0
+# sentencepiece>=0.1.99
+
+# Testing
+pytest>=7.3.0
+
+# Code quality
+black>=23.0.0
+flake8>=6.0.0
