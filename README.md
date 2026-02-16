@@ -1,4 +1,4 @@
-# Causal Language Modeling - پیاده‌سازی مدل زبانی علّی
+# Causal Language Modeling
 
 <div dir="rtl">
 
@@ -429,15 +429,6 @@ This project is for educational purposes as part of a university course.
 
 ---
 
-## 👤 Author
-
-**[Your Name]**
-- Student ID: [Your ID]
-- Email: [Your Email]
-- Course: [Course Name]
-- University: [University Name]
-
----
 
 ## 🙏 Acknowledgments
 
@@ -447,13 +438,7 @@ This project is for educational purposes as part of a university course.
 
 ---
 
-<div dir="rtl">
-
-## 📧 تماس
-
-برای سوالات و پیشنهادات:
-- ایمیل: [ایمیل شما]
-- ریپوی Git: [لینک ریپو]
+<div dir="rtl">]
 
 </div>
 
